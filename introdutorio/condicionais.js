@@ -1,3 +1,5 @@
+"use strich"
+
 console.log('\n Trabalhando com condicionais');
 
 const listaDeDestinos = new Array(
