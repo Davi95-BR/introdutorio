@@ -1,3 +1,5 @@
+"use strich"
+
 console.log('Trabalhando com Listas');
 
 const listaDeDestinos = new Array(
