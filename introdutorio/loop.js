@@ -1,3 +1,5 @@
+"use strich"
+
 console.log('\n Trabalhando com loop');
 
 const listaDeDestinos = new Array(
